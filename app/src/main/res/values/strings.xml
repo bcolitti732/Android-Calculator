@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Calculator Android</string>
+    <string name="Btn1">1</string>
+    <string name="Btn2">2</string>
+    <string name="Btn3">3</string>
+    <string name="Btn4">4</string>
+    <string name="Btn5">5</string>
+    <string name="Btn6">6</string>
+    <string name="Btn7">7</string>
+    <string name="Btn8">8</string>
+    <string name="Btn9">9</string>
+    <string name="Btn0">0</string>
+    <string name="BtnEqual">=</string>
+    <string name="BtnC">Clear</string>
+    <string name="BtnPlus">+</string>
+    <string name="BtnMinus">-</string>
+    <string name="BtnMultiply">X</string>
+    <string name="BtnDivide">/</string>
+    <string name="BtnSen">sen</string>
+    <string name="BtnCos">cos</string>
+    <string name="BtnTan">tan</string>
+    <string name="PantallaCalc">""</string>
+    <string name="Switch">"Rad a Deg"</string>
+</resources>
